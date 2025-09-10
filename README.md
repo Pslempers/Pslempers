@@ -1,5 +1,5 @@
 - 👋 
-- Hi, I’m @Pslempers
+- Hi, I’m @pslempers
 - 👀
 - I’m interested in becoming a game designer using my composing skills and passion for games.
 - 🌱
