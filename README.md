@@ -9,7 +9,7 @@
 - 💞️
 - I’m looking to collaborate on a game jam to meet new creators.
 - 📫
-- Here's my [Markdown Portfolio](https://github.com/pslempers)!
+- Here's my [Markdown Portfolio](https://pslempers.github.io)!
 
 <!---
 Pslempers/Pslempers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
