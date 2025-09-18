@@ -1,5 +1,8 @@
 - 👋 
 - Hi, I’m @pslempers
+
+[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=pslempers)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+
 - 👀
 - I’m interested in becoming a web developer and interactive designer, utilizing my composing skills and passion for games.
 - 🌱
