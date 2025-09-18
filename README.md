@@ -6,6 +6,11 @@
 - 2020-2023: I learned some Unreal Engine 5, C++, pixel art, 3D game design, and the German language!
 - 2024: I'm now experimenting with ChatGPT and making small JavaScript web-apps to learn.
 - 2025: I'm enrolled at Humber Polytechnic for Web Development to get coding for real!
+
+![csharp](/images/csharp-logo.png)
+![javascript](/images/javascript-logo.png)
+![html5](/images/html5-logo.png)
+
 - 💞️
 - I’m looking to collaborate on a game jam to meet new creators.
 - 📫
