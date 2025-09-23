@@ -25,7 +25,7 @@
 
 | Languages            | Courses taken                      | Institution               | Instructor |
 | -------------------- | ---------------------------------- | ------------------------- | ---------- |
-| Git                  | [http5114-workshops-in-web-development](https://github.com/pslempers/http5114-workshops-in-web-development) | Humber Polytechnic | Adam Thomas |
+| Git VCS              | [http5114-workshops-in-web-development](https://github.com/pslempers/http5114-workshops-in-web-development) | Humber Polytechnic | Adam Thomas |
 | JavaScript           | [http5122-front-end-web-development](https://github.com/pslempers/http5122-front-end-web-development) | Humber Polytechnic        | Sean Doyle |
 | HTML                 | [http5122-front-end-web-development](https://github.com/pslempers/http5122-front-end-web-development) | Humber Polytechnic        | Sean Doyle |
 | CSS                  | [http5121-web-design](https://github.com/pslempers/http5121-web-design)                | Humber Polytechnic        | Joanna Kommala |
