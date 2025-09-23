@@ -18,16 +18,18 @@
 
 ## github-stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=[pslempers]&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
+[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=pslempers)](https://github.com/anuraghazra/github-readme-stats)
+
+## course-history
 
 | Languages            | Courses taken                      | Institution               | Instructor |
 | -------------------- | ---------------------------------- | ------------------------- | ---------- |
-| JavaScript           | HTTP5122-front-end-web-development | Humber Polytechnic        | Sean Doyle |
-| HTML                 | HTTP5122-front-end-web-development | Humber Polytechnic        | Sean Doyle |
-| CSS                  | HTTP5121-web-design                | Humber Polytechnic        | Joanna Kommala |
-| PHP                  | HTTP5126-database-design-and-dev   | Humber Polytechnic        | Sam Bebenek |
-| MySQL                | HTTP5126-database-design-and-dev   | Humber Polytechnic        | Sam Bebenek |
-| dotnet               | HTTP5125-back-end-web-development  | Humber Polytechnic        | Diana Astafyeva |
+| JavaScript           | [http5122-front-end-web-development](pslempers/) | Humber Polytechnic        | Sean Doyle |
+| HTML                 | http5122-front-end-web-development | Humber Polytechnic        | Sean Doyle |
+| CSS                  | http5121-web-design                | Humber Polytechnic        | Joanna Kommala |
+| PHP                  | http5126-database-design-and-dev   | Humber Polytechnic        | Sam Bebenek |
+| MySQL                | http5126-database-design-and-dev   | Humber Polytechnic        | Sam Bebenek |
+| dotnet               | http5125-back-end-web-development  | Humber Polytechnic        | Diana Astafyeva |
 | C#                   | Unity2D-Fundamentals               | Pluralsight               | Brian Sinasac |
 | Sibelius             | Music Composition Grad Certificate | Humber Polytechnic        | Jason Gray |
 
