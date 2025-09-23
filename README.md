@@ -14,7 +14,7 @@
 - 🌱
 - 2020-2023: I learned some Unreal Engine 5, C++, pixel art, 3D game design, and the German language!
 - 2024: I'm now experimenting with ChatGPT and making small JavaScript web-apps to learn.
-- 2025: I'm enrolled at Humber Polytechnic for Web Development to get coding for real!
+- 2025: I'm enrolled at Humber Polytechnic for Web Development to skill up in the web stack.
 
 ## github-stats
 
@@ -25,15 +25,16 @@
 
 | Languages            | Courses taken                      | Institution               | Instructor |
 | -------------------- | ---------------------------------- | ------------------------- | ---------- |
-| JavaScript           | [http5122-front-end-web-development](pslempers/) | Humber Polytechnic        | Sean Doyle |
-| HTML                 | http5122-front-end-web-development | Humber Polytechnic        | Sean Doyle |
-| CSS                  | http5121-web-design                | Humber Polytechnic        | Joanna Kommala |
-| PHP                  | http5126-database-design-and-dev   | Humber Polytechnic        | Sam Bebenek |
-| MySQL                | http5126-database-design-and-dev   | Humber Polytechnic        | Sam Bebenek |
-| dotnet               | http5125-back-end-web-development  | Humber Polytechnic        | Diana Astafyeva |
-| C#                   | Unity2D-Fundamentals               | Pluralsight               | Brian Sinasac |
+| Git                  | [http5114-workshops-in-web-development](https://github.com/pslempers/http5114-workshops-in-web-development) | Humber Polytechnic | Adam Thomas |
+| JavaScript           | [http5122-front-end-web-development](https://github.com/pslempers/http5122-front-end-web-development) | Humber Polytechnic        | Sean Doyle |
+| HTML                 | [http5122-front-end-web-development](https://github.com/pslempers/http5122-front-end-web-development) | Humber Polytechnic        | Sean Doyle |
+| CSS                  | [http5121-web-design](https://github.com/pslempers/http5121-web-design)                | Humber Polytechnic        | Joanna Kommala |
+| PHP                  | [http5126-database-design-and-development](https://github.com/pslempers/http5126-database-design-and-development)   | Humber Polytechnic        | Sam Bebenek |
+| MySQL                | [http5126-database-design-and-development](https://github.com/pslempers/http5126-database-design-and-development)   | Humber Polytechnic        | Sam Bebenek |
+| dotnet               | [http5125-back-end-web-development](https://github.com/pslempers/http5125-back-end-web-development)  | Humber Polytechnic        | Diana Astafyeva |
+| C#                   | [Unity2D-Fundamentals](https://app.pluralsight.com/library/courses/unity-2d-fundamentals-character-control/table-of-contents)               | Pluralsight               | Brian Sinasac |
 | Sibelius             | Music Composition Grad Certificate | Humber Polytechnic        | Jason Gray |
-
+| German               | B1-Level Integrationskurse         | Dr. Ridder Sprachen       | Nina Stuhlmacher |
 
 
 - 💞️
