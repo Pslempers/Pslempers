@@ -33,7 +33,7 @@
 | MySQL                | [http5126-database-design-and-development](https://github.com/pslempers/http5126-database-design-and-development)   | Humber Polytechnic        | Sam Bebenek |
 | dotnet               | [http5125-back-end-web-development](https://github.com/pslempers/http5125-back-end-web-development)  | Humber Polytechnic        | Diana Astafyeva |
 | C#                   | [Unity2D-Fundamentals](https://app.pluralsight.com/library/courses/unity-2d-fundamentals-character-control/table-of-contents)               | Pluralsight               | Brian Sinasac |
-| Sibelius             | Music Composition Grad Certificate | Humber Polytechnic        | Jason Gray |
+| Sibelius             | Music Composition Grad Certificate | Humber Polytechnic        | Justin Gray |
 | German               | B1-Level Integrationskurse         | Dr. Ridder Sprachen       | Nina Stuhlmacher |
 
 
