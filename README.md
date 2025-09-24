@@ -4,8 +4,8 @@
 ![html5](/images/html5-logo.png)
 ![csharp](/images/csharp-logo.png)
 ![php](/images/php-logo.png)
-![logic](/images/logic-logo.png)
 ![ableton](/images/ableton-logo.png)
+![figma](/images/figma-logo.png)
 ![sibelius](/images/sibelius-logo.png)
 
 ## bio
